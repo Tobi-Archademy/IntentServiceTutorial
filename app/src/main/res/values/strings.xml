@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentServiceTutorial</string>
+    <string name="start">Start</string>
+    <string name="stop">STOP</string>
+    <string name="service_stoped">Service Stopped</string>
+    <string name="service_started">Service Running</string>
+</resources>
